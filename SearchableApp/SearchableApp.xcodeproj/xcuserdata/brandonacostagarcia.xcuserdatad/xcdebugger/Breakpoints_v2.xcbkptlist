@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6F013E05-D97F-43C6-85F2-626752B3282F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B74EA9A9-60D1-42F0-A797-5809C0128F16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchableApp/Scene/SearchScene/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "scrollViewDidEndDecelerating(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B74EA9A9-60D1-42F0-A797-5809C0128F16 - 141328b94d18fa3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchableApp.SearchViewController.scrollViewDidEndDecelerating(__C.UIScrollView) -&gt; ()"
+                  moduleName = "SearchableApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonacostagarcia/Desktop/SearchableApp/SearchableApp/Scene/SearchScene/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "2988">
+               </Location>
+               <Location
+                  uuid = "B74EA9A9-60D1-42F0-A797-5809C0128F16 - 141328b94d18fa9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchableApp.SearchViewController.scrollViewDidEndDecelerating(__C.UIScrollView) -&gt; ()"
+                  moduleName = "SearchableApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonacostagarcia/Desktop/SearchableApp/SearchableApp/Scene/SearchScene/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "3260">
+               </Location>
+               <Location
+                  uuid = "B74EA9A9-60D1-42F0-A797-5809C0128F16 - 141328b94d18fabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchableApp.SearchViewController.scrollViewDidEndDecelerating(__C.UIScrollView) -&gt; ()"
+                  moduleName = "SearchableApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonacostagarcia/Desktop/SearchableApp/SearchableApp/Scene/SearchScene/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "3260">
+               </Location>
+               <Location
+                  uuid = "B74EA9A9-60D1-42F0-A797-5809C0128F16 - 141328b94d18fad0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchableApp.SearchViewController.scrollViewDidEndDecelerating(__C.UIScrollView) -&gt; ()"
+                  moduleName = "SearchableApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandonacostagarcia/Desktop/SearchableApp/SearchableApp/Scene/SearchScene/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "3260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

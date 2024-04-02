@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>0</string>
+		<key>sortBy</key>
+		<string>relevancia%7C0</string>
+		<key>label</key>
+		<string>Relevancia</string>
+		<key>isSelected</key>
+		<string>false</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>1</string>
+		<key>sortBy</key>
+		<string>newArrival%7C1</string>
+		<key>label</key>
+		<string>Lo Más Nuevo</string>
+		<key>isSelected</key>
+		<string>false</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>sortBy</key>
+		<string>sortPrice%7C0</string>
+		<key>label</key>
+		<string>Menor precio</string>
+		<key>isSelected</key>
+		<string>false</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2</string>
+		<key>sortBy</key>
+		<string>sortPrice%7C1</string>
+		<key>label</key>
+		<string>Mayor precio</string>
+		<key>isSelected</key>
+		<string>false</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>3</string>
+		<key>sortBy</key>
+		<string>rating%7C1</string>
+		<key>label</key>
+		<string>Calificaciones</string>
+		<key>isSelected</key>
+		<string>false</string>
+	</dict>
+</array>
+</plist>
